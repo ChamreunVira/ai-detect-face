@@ -1,6 +1,6 @@
 ### Create dataset by yourself when you try to test it.
 
-Noted: 
+## Noted: 
 
-Make sure you are mapping dataset inside index.py (line 3)
+Make sure you are mapping dataset inside index.py with your DIR (line 3)
 
