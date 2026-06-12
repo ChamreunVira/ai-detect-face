@@ -50,3 +50,4 @@ recognizer.write('trainer.yml')
 print(f"Training complete! Saved 'trainer.yml'.")
 print("Mapping key for your prediction script:")
 print(label_map)
+
